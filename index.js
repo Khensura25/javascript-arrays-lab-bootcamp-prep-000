@@ -42,3 +42,4 @@ function removeFirstKitten(name) {
   return n;
   
 }
+
