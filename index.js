@@ -35,3 +35,10 @@ function removeLastKitten(name) {
   return n;
   
 }
+
+function removeLastKitten(name) {
+  var n;
+  n = kittens.slice(0, 2);
+  return n;
+  
+}
